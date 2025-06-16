@@ -1,11 +1,9 @@
-#!/usr/bin/env python3
 """
-ANN NumPy mejorada:
+ANN NumPy :
  - Recorta franja superior con texto
  - División estratificada
  - Pérdida ponderada por clase
- - Métricas (accuracy + matriz de confusión)
-Compatible con Python 3.13
+ - Métricas 
 """
 from __future__ import annotations
 import itertools, random
